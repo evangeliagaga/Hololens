@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+D:\Thesis\Azure\_builds\AzureSpeechToTextVoiceCommand\Azure\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+D:\Thesis\Azure\_builds\AzureSpeechToTextVoiceCommand\Azure\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+     Creating library D:\Thesis\Azure\_builds\AzureSpeechToTextVoiceCommand\build\bin\ARM64\Release\Azure.lib and object D:\Thesis\Azure\_builds\AzureSpeechToTextVoiceCommand\build\bin\ARM64\Release\Azure.exp
+  Generating code
+  Finished generating code
+  Azure.vcxproj -> D:\Thesis\Azure\_builds\AzureSpeechToTextVoiceCommand\build\bin\ARM64\Release\Azure.exe

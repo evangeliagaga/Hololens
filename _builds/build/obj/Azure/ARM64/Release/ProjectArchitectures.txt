@@ -1,0 +1,1 @@
+D:\Thesis\Azure\_builds\Azure\Azure.vcxproj;arm64
